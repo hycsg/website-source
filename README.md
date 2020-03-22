@@ -1,2 +1,6 @@
 # website-source
-non-production/build version of website (source code)
+this is our website's source code
+
+## quicklinks
+website repo: https://github.com/Houston-Youth-Computer-Science-Group/houston-youth-computer-science-group.github.io
+website: https://houston-youth-computer-science-group.github.io
