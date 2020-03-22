@@ -1,6 +1,6 @@
 # website-source
 
-this is our website's source code
+Our website's source code
 
 ## quicklinks
 
