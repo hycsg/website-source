@@ -1,2 +1,2 @@
-exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "*.bat", "*.code-workspace"]
+exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "*.bat", "*.code-workspace", "README.md"]
 destination         : ../houston-youth-computer-science-group.github.io
