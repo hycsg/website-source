@@ -1,6 +1,6 @@
 option=$1
 
-if   [[ option == "deploy" ]]; then
+if [[ option == "deploy" ]]; then
   jekyll build;
   cd ../houston-youth-computer-science-group.github.io;
   git add .;
