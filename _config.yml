@@ -1,7 +1,7 @@
 title: Houston-Youth-Computer-Science-Group 
 email: houstoncsgroup@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  A local group for adept Houstonian youth to congregate for Computer Science/Cyber-Security/Open-Source software.
+  A local group for Houstonian youth to congregate for Computer Science/Cyber-Security/Open-Source software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Houston-Youth-Computer-Science-Group
