@@ -11,4 +11,4 @@ theme: minima
 plugins:
   - jekyll-feed
 exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "*.bat", "*.code-workspace", "README.md", "*.zsh"]
-destination         : ../houston-youth-computer-science-group.github.io
+destination         : ../hycsg.github.io
