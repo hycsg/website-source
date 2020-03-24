@@ -4,11 +4,11 @@ option=$1
 echo [[ option == "preview" ]];
 
 if [[ $option == "deploy" ]]; then
-  cd ../houston-youth-computer-science-group.github.io;
+  cd ../hycsg.github.io;
   git pull;
   cd ../website-source;
   jekyll build;
-  cd ../houston-youth-computer-science-group.github.io;
+  cd ../hycsg.github.io;
   git add .;
   git commit && git push;
 elif [[ $option == "preview" ]]; then
