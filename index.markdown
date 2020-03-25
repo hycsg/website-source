@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to the Houston Youth Computer Science Group!. We are a local group dedicated to cultivating the computer science talents of Houstonian Youth.
